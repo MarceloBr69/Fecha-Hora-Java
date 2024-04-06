@@ -1,0 +1,12 @@
+@charset "UTF-8";
+.container{
+	display: flex;
+	padding: 0 auto;
+	justify-content: center; 
+	gap: 10%;
+}
+
+a{
+	padding-top: 10em; 
+	font-size: 2em;
+}

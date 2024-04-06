@@ -1,0 +1,7 @@
+@charset "UTF-8";
+h2{
+	display: flex;
+	justify-content: center;
+	padding-top:20%;
+	color: blue;
+}
